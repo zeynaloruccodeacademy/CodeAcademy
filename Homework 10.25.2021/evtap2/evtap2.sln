@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evtap2", "evtap2\evtap2.csproj", "{92AD284D-D692-4B8F-99ED-18508E8AEE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AD284D-D692-4B8F-99ED-18508E8AEE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AD284D-D692-4B8F-99ED-18508E8AEE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AD284D-D692-4B8F-99ED-18508E8AEE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AD284D-D692-4B8F-99ED-18508E8AEE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D813BD40-6DE5-4906-9555-E63968917AF3}
+	EndGlobalSection
+EndGlobal

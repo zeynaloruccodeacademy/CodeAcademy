@@ -1,0 +1,14 @@
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.csproj.AssemblyReference.cache
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.AssemblyInfoInputs.cache
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.AssemblyInfo.cs
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.csproj.CoreCompileInputs.cache
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.exe
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.deps.json
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.runtimeconfig.json
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.runtimeconfig.dev.json
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.dll
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\bin\Debug\netcoreapp3.1\evtap2.pdb
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.dll
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.pdb
+C:\Users\ZEYN4L\source\repos\evtap2\evtap2\obj\Debug\netcoreapp3.1\evtap2.genruntimeconfig.cache
