@@ -1,0 +1,14 @@
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.exe
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.deps.json
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.runtimeconfig.json
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.runtimeconfig.dev.json
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.dll
+C:\Users\tu201806305\source\repos\evtap3\evtap3\bin\Debug\netcoreapp3.1\evtap3.pdb
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.csproj.AssemblyReference.cache
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.AssemblyInfoInputs.cache
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.AssemblyInfo.cs
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.csproj.CoreCompileInputs.cache
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.dll
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.pdb
+C:\Users\tu201806305\source\repos\evtap3\evtap3\obj\Debug\netcoreapp3.1\evtap3.genruntimeconfig.cache
