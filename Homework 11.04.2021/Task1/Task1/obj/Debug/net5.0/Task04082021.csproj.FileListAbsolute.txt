@@ -1,0 +1,16 @@
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.exe
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.deps.json
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.runtimeconfig.json
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.runtimeconfig.dev.json
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.dll
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\ref\Task04082021.dll
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\bin\Debug\net5.0\Task04082021.pdb
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.csproj.AssemblyReference.cache
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.AssemblyInfoInputs.cache
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.AssemblyInfo.cs
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.csproj.CoreCompileInputs.cache
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.dll
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\ref\Task04082021.dll
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.pdb
+C:\Users\ZEYN4L\source\repos\Task1182021\Task1182021\obj\Debug\net5.0\Task04082021.genruntimeconfig.cache
